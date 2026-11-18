@@ -1,0 +1,6 @@
+{
+  "name": "VibeBattle",
+  "description": "Challenge Your Friends. Discover Who Knows You Best. Create custom quizzes, share with friends, and see who knows you best.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
